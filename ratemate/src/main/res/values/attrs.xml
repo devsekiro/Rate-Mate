@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/attrs.xml -->
+<resources>
+    <declare-styleable name="RateMate">
+        <!-- Attribute for the regular star drawable -->
+        <attr name="emptyStarDrawable" format="reference" />
+        <!-- Attribute for the last star drawable -->
+        <attr name="emptyLastStarDrawable" format="reference" />
+        <!-- Attribute for the regular star drawable -->
+        <attr name="filledStarDrawable" format="reference" />
+        <!-- Attribute for the last star drawable -->
+        <attr name="filledLastStarDrawable" format="reference" />
+        <!-- Attribute for the number of stars, if not using the default -->
+        <attr name="numStars" format="integer" />
+    </declare-styleable>
+</resources>
