@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/devsekiro/Rate-Mate.svg)](https://jitpack.io/#devsekiro/Rate-Mate)
 # RateMate
 
 **RateMate** is a fully customizable Android rating bar built to give developers complete control over the appearance of their rating UI.
