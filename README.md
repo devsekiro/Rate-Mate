@@ -1,4 +1,4 @@
-# ⭐ RateMate
+# RateMate
 
 **RateMate** is a lightweight and customizable Android rating bar that allows you to define:
 - Custom icons for **rated** and **unrated** stars
@@ -8,13 +8,13 @@ Perfect for apps that want more visual control over their rating UI than what th
 
 ---
 
-## 📦 Installation
+Installation
 
 ### Step 1: Add JitPack repository
 
 In your **project-level** `build.gradle` or `settings.gradle.kts`:
 
-```gradle
+gradle
 maven { url 'https://jitpack.io' }
 
 
